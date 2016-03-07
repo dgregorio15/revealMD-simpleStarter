@@ -1,4 +1,4 @@
-##TODO: Add your presentations title
+##TODO: Diane's Example Presentation 
 <p><br/><br/><small>TODO: Add your name</a></small></p>
 
 
